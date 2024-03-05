@@ -563,7 +563,7 @@ section {
 .about i {
   font-size: 48px;
   margin-top: 15px;
-  color: #f39e7a;
+  color: #c49ba8;
 }
 
 .about p {
@@ -855,7 +855,7 @@ section {
   font-weight: 600;
   padding-left: 25px;
   cursor: pointer;
-  color: #c54811;
+  color: #c49ba8;
   transition: 0.3s;
 }
 
@@ -1289,7 +1289,7 @@ section {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #f39e7a;
+  color: #c49ba8;
   font-size: 18px;
   line-height: 1;
 }
