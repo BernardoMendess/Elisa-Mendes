@@ -394,6 +394,11 @@ h6,
   animation: up-down 2s ease-in-out infinite alternate-reverse both;
 }
 
+.img-inicial {
+  border-radius: 50%;
+  width: 60%;
+}
+
 @media (max-width: 991px) {
   #hero {
     height: calc(100vh - 72px);
@@ -574,6 +579,7 @@ section {
 @media (max-width: 991px) {
   .about .about-img img {
     max-width: 70%;
+
   }
 }
 
