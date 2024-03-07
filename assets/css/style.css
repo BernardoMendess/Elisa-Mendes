@@ -838,6 +838,7 @@ section {
 --------------------------------------------------------------*/
 .faq {
   padding: 60px 0;
+  background: #fff;
 }
 
 .faq .faq-list {
@@ -903,7 +904,7 @@ section {
 # Team
 --------------------------------------------------------------*/
 .team {
-  background: #fff;
+  background: #f0e1e5;
   padding: 60px 0;
 }
 
@@ -993,6 +994,10 @@ section {
 /*--------------------------------------------------------------
 # Clients
 --------------------------------------------------------------*/
+.clients{
+  background: #fff;
+}
+
 .clients .clients-slider .swiper-slide img {
   opacity: 0.5;
   transition: 0.3s;
@@ -1022,6 +1027,10 @@ section {
 /*--------------------------------------------------------------
 # Contact Us
 --------------------------------------------------------------*/
+.contact {
+  background: #f0e1e5;
+}
+
 .contact .info {
   border-top: 3px solid #c49ba8;
   border-bottom: 3px solid #c49ba8;
